@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Steve.
 #### Front-end Developer
-![Front-end Developer](https://www.valuecoders.com/blog/wp-content/uploads/2018/06/1_i_Vj3gs7QO9fjcxELK2c2g-1536x804.png)
 
 
 Skills: HTML / CSS / JS / ReactJS / TailwindCSS / Git & GitHub / npm & Yarn package manager

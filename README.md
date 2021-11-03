@@ -1,4 +1,4 @@
-<body style="background: white">
+<body style="background-color: white">
   <h3>Skills & Experirence</h3>
   <ul>
     <li>HTML</li>

@@ -1,5 +1,4 @@
-### Stephen Wayar.
-#### Front-end Developer
+### Front-end Developer
 
 
 Skills: HTML / CSS / JS / ReactJS / TailwindCSS / Git & GitHub / npm & Yarn package manager

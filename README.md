@@ -1,9 +1,11 @@
-<h2>Stephen Wayar</h2>
+<h3>Stephen Wayar</h3>
 
-<h2>Skills & Experirence</h2>
+<h3>Skills & Experirence</h3>
 
-<hr>
-<h2>Stats</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenwayar)](https://github.com/anuraghazra/github-readme-stats)
-
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  
+</ul> 
 

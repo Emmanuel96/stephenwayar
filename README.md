@@ -1,5 +1,3 @@
-<h3>Stephen Wayar</h3>
-
 <h3>Skills & Experirence</h3>
 
 <ul>

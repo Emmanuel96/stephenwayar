@@ -1,4 +1,3 @@
-<body style="background-color: white">
   <h3>Skills & Experirence</h3>
   <ul>
     <li>HTML</li>
@@ -8,7 +7,7 @@
      <li>TailwindCSS</li>
     <li>Git & GitHub</li>
     <li>npm & Yarn package manager</li>
-
   </ul> 
-</body>  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stephenwayar)
+
 

@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Steve.
+### Stephen Wayar.
 #### Front-end Developer
 
 

@@ -5,7 +5,7 @@ Skills: HTML / CSS / JS / ReactJS / TailwindCSS / Git & GitHub / npm & Yarn pack
 
 
 
-[[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stephen-wayar-551228184//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/stephenwayar)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stephen-wayar-551228184//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/stephenwayar)  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stephenwayar)
 

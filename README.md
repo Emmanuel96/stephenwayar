@@ -1,6 +1,6 @@
 ### Front-end Developer
 
-<b>Skills: HTML / CSS / JS / ReactJS / TailwindCSS / Git & GitHub / npm & Yarn package manager</b>
+<b>Skills: HTML / CSS / JS / ReactJS / TailwindCSS / Git & GitHub</b>
 
 <a href="https://github.com/stephenwayar">
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=stephenwayar" />

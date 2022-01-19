@@ -1,4 +1,4 @@
-### Front-end Developer
+### Front-End Software Developer
 
 <b>Skills: HTML / CSS / JS / ReactJS / NextJS / TailwindCSS / Git & GitHub</b>
 

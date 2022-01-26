@@ -1,6 +1,8 @@
 ### Front-End Software Developer
 
-<b>Tech: HTML / CSS / JS / ReactJS / NextJS / TailwindCSS / Git & GitHub</b>
+<b>Code: HTML | CSS | JS</b>
+<br>
+<b>Tools: ReactJS | NextJS | TailwindCSS | Git & GitHub
 
 <a href="https://github.com/stephenwayar">
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=stephenwayar" />

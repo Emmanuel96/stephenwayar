@@ -1,4 +1,4 @@
-### Front-End Software Developer
+### Software Developer
 
 <b>Code: HTML | CSS | JS</b>
 <br>

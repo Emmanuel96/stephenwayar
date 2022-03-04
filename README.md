@@ -2,7 +2,7 @@
 
 <b>Code: HTML | CSS | JS</b>
 <br>
-<b>Tools: ReactJS | NextJS | TailwindCSS | NodeJS | ExpressJS | MongoDB | Git & GitHub
+<b>Tools: ReactJS | NextJS | TailwindCSS | NodeJS | ExpressJS | MongoDB | Git 
 
 <a href="https://github.com/stephenwayar">
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=stephenwayar" />
